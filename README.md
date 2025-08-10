@@ -4,6 +4,11 @@ A simple React Native app where you can check your daily horoscope 🔮 and writ
 
 ---
 
+## 📱 Download & Test
+
+- **Android (APK):** [Download here](https://expo.dev/accounts/irohnyyy/projects/astro-journal/builds/d3ae6660-1fd3-4c5b-9446-59986d142d22)
+---
+
 ## What’s inside? 🎁
 
 - Pick your zodiac sign once and save it ⭐️
